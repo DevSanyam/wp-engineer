@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# VS Code settings (optional - keeps repo clean)
+.vscode/
